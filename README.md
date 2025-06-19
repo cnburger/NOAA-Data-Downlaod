@@ -32,7 +32,7 @@ A **super simple** Python script to download daily climate data from NOAA's Glob
    ```
 
 5. **Find your data**:
-   The downloaded CSV files will be saved in the `NOAA/` directory.
+   The downloaded CSV files will be saved in the `NOAA_CSV/` directory.
 
 ## Notes
 
